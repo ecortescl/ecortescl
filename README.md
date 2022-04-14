@@ -1,5 +1,12 @@
 <h1 align="center">Hola 👋, Soy Esteban Cortes R</h1>
 <h3 align="center">Soy developer web llevo más de 8 años trabajando de forma impediente y 2 años de forma dependiente, tengo conocimiento en múltiples áreas aparte del desarrollo web como marketing digital, administración de empresas, diseño gráfico y multimedia. hoy en día me gusta mucho hacer coaching a programador Jr. y emprendedores. </h3>
+<h3 align="center">Mis Proyectos:</h3>
+<h4 align="center">Webacademy.cl: Bootcamp Online diseñado para Programadores JR o trainee que estan en busqueda de ayuda y coaching para postular en su primer trabajo como programador</h4>
+<h4 align="center">Ecortes.cl: Mi Sitio web personal con mi portafolio de trabajos realizado durante mi años de experiencia como independiente</h4>
+<h4 align="center">Feles.cl: Agencia de Marketing y Diseño Web especializada en campañas con Google y Facebook Ads</h4>
+
+
+
 
 <h3 align="center">Sígueme en:</h3>
 <p align="center">
