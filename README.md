@@ -3,9 +3,8 @@
 Tengo conocimientos en administración de empresa, Diseño gráfico y Multimedia. Marketing Digital y SEO posicionamiento. En la actualizada me encuentro estudiando para añadir más conocimientos a mi curriculum.
 </h3>
 <h3 align="center">Mis Proyectos:</h3>
-<h4 align="center">Webacademy.cl: Bootcamp Online diseñado para Programadores JR o trainee que estan en busqueda de ayuda y coaching para postular en su primer trabajo como programador</h4>
-<h4 align="center">Ecortes.cl: Mi Sitio web personal con mi portafolio de trabajos realizado durante mi años de experiencia como independiente</h4>
-<h4 align="center">Feles.cl: Agencia de Marketing y Diseño Web especializada en campañas con Google y Facebook Ads</h4>
+<h4 align="center">ecortes.cl: Mi Sitio web personal con mi portafolio de trabajos realizado durante mi años de experiencia como independiente</h4>
+<h4 align="center">feles.cl: Agencia de Marketing y Diseño Web especializada en campañas con Google y Facebook Ads</h4>
 
 
 
