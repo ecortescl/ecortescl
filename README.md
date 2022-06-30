@@ -10,10 +10,10 @@
 
 <h3 align="center">Sígueme en:</h3>
 <p align="center">
-<a href="https://twitter.com/ecortescl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ecortescl" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/esteban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esteban" height="30" width="40" /></a>
+<a href="https://twitter.com/DEcortescl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ecortescl" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ecortescl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esteban" height="30" width="40" /></a>
 <a href="https://fb.com/estebangos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="estebangos" height="30" width="40" /></a>
-<a href="https://instagram.com/ecortescl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ecortescl" height="30" width="40" /></a>
+<a href="https://www.instagram.com/estebangos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ecortescl" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Lenguajes y Programas</h3>
