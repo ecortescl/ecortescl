@@ -1,12 +1,5 @@
 <h1 align="center">Hola 👋, Soy Esteban Cortes R</h1>
-<h3 align="center">Soy Developer Web llevo más de 8 años de experiencia. Siempre fui independiente y hace 2 años comencé a trabajar para una agencia especializada en rubro inmobiliario.  También he prestado servicios para entidades públicas como Antofagasta Minerals, Municipalidad de Sierra Gorda. <br>
-Tengo conocimientos en administración de empresa, Diseño gráfico y Multimedia. Marketing Digital y SEO posicionamiento. En la actualizada me encuentro estudiando para añadir más conocimientos a mi curriculum.
-</h3>
-<h3 align="center">Mis Proyectos:</h3>
-<h4 align="center">ecortes.cl: Mi Sitio web personal con mi portafolio de trabajos realizado durante mi años de experiencia como independiente</h4>
-<h4 align="center">feles.cl: Agencia de Marketing y Diseño Web especializada en campañas con Google y Facebook Ads</h4>
-
-
+<h3 align="center">Diseñador Web parti de forma full autodidacta trabajando hace mas de 10 años y en la actualidad trabajo en la agencia Quiebre como desarrollador web fullstack creando proyectos web para empresas del sector inmobiliario. adicionalmente siempre he trabajado como freelance para varios proyectos para pymes o fondos concursables de Corfo o municipales y fundaciones que apoyan iniciativas de emprendedores.</h3>
 
 
 <h3 align="center">Sígueme en:</h3>
