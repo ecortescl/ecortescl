@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, Soy Esteban Cortes R</h1>
-<h3 align="center">Diseñador Web parti de forma full autodidacta trabajando hace mas de 10 años y en la actualidad trabajo en la agencia Quiebre como desarrollador web fullstack creando proyectos web para empresas del sector inmobiliario. adicionalmente siempre he trabajado como freelance para varios proyectos para pymes o fondos concursables de Corfo o municipales y fundaciones que apoyan iniciativas de emprendedores.</h3>
+<h3 align="center">Soy Web Developer FullStack he trabajado en proyecto web de forma freelance como también en la agencia Quiebre donde trabajo actualmente. Me especializo por tener conocimientos en varias sectores como el marketing, diseño,
+                            gestión empresarial y por último en diversos lenguajes y framework para el desarrollo de proyectos.</h3>
 
 
 <h3 align="center">Sígueme en:</h3>
