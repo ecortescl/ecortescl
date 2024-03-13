@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I am Esteban Cortes R</h1>
-<h3 align="center">I am a FullStack Web Developer who has worked on web projects both as a freelancer and at the Quiebre agency, where I currently work. I specialize in having knowledge in various sectors such as marketing, design, business management, and finally in various languages and frameworks for project development.</h3>
+<h1 align="center">Your Partner in App & Web Development</h1>
+<h3 align="center">I focus my passion and experience on custom app and website development, ensuring innovative and high-quality solutions that drive your business growth. Discover how I can be your key ally in digital transformation.</h3>
 
 
 <h3 align="center">Follow me on:</h3>
