@@ -27,23 +27,18 @@ A lo largo de mi carrera profesional, he completado más de 200 proyectos web, d
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)  ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)  
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white)  ![Miro](https://img.shields.io/badge/-Miro-FFD02F?style=flat&logo=miro&logoColor=black)  ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
----
-
-## 📚 **Actualmente Aprendiendo**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
 
 ---
 
 ## ⚽ **Más Allá del Código**  
 Cuando no estoy codificando, puedes encontrarme:  
 - ⚽ **Jugando fútbol**,  
-- 🎣 **Pescando**,  
 - 🎮 **Minecraft** 
 
 ---
 
 ## 🌐 **Conecta Conmigo**
-- 🌍 Sitio web: [www.ecortes.cl](https://www.ecortes.cl)  
+- 🌍 Sitio web: [www.ecortes.cl](https://www.ecortes.cl)  - renovando a versión 2025
 - 🖼️ Portafolio: [www.ecortes.cl/portafolio](https://www.ecortes.cl/portafolio)  
 - 📧 Correo: [hola@ecortes.cl](mailto:hola@ecortes.cl)  
 
