@@ -1,7 +1,6 @@
 
-<a target="_black" href="https://ecortes.cl">  <img src="https://media.licdn.com/dms/image/v2/D4E16AQFTBIqrr_xAXw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733608067450?e=1738800000&v=beta&t=lFAzGOTWVVl0IsAsLJ5OShcZDoDhTyJdHPTWxZygKQs" width="100%" ></a>
-
-Soy un creador incansable de oportunidades y un apasionado por dar vida a ideas innovadoras. Combino tecnología, creatividad y estrategia para diseñar soluciones digitales que no solo funcionan, sino que inspiran. Desde desarrollar sistemas robustos hasta diseñar experiencias memorables, disfruto colaborar con otros para construir negocios que marquen la diferencia y dejen una huella duradera. Siempre estoy explorando el próximo gran reto que impulse el cambio y cree valor para el mundo digital.
+Soy un Desarrollador Fullstack Senior con más de una década de experiencia en la industria del desarrollo de software. Mi trayectoria comenzó como autodidacta y se fortaleció con estudios en Ingeniería Informática y una carrera completa en Administración de Empresas en INACAP, lo que me ha permitido desarrollar una perspectiva única que combina excelencia técnica con habilidades de gestión y liderazgo.
+A lo largo de mi carrera profesional, he completado más de 200 proyectos web, desde sitios corporativos hasta complejas aplicaciones empresariales. Me especializo en el desarrollo de soluciones escalables utilizando tecnologías modernas como Laravel, Node.js, Vue.js y Astro, siempre enfocado en la experiencia del usuario y el rendimiento óptimo. Mi enfoque va más allá del código; me apasiona crear soluciones innovadoras que impacten positivamente en los usuarios finales.
 
 ---
 
