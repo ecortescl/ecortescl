@@ -1,6 +1,5 @@
 
-Soy un Desarrollador Fullstack Senior con más de una década de experiencia en la industria del desarrollo de software. Mi trayectoria comenzó como autodidacta y se fortaleció con estudios en Ingeniería Informática y una carrera completa en Administración de Empresas en INACAP, lo que me ha permitido desarrollar una perspectiva única que combina excelencia técnica con habilidades de gestión y liderazgo.
-A lo largo de mi carrera profesional, he completado más de 200 proyectos web, desde sitios corporativos hasta complejas aplicaciones empresariales. Me especializo en el desarrollo de soluciones escalables utilizando tecnologías modernas como Laravel, Node.js, Vue.js y Astro, siempre enfocado en la experiencia del usuario y el rendimiento óptimo. Mi enfoque va más allá del código; me apasiona crear soluciones innovadoras que impacten positivamente en los usuarios finales.
+Senior Fullstack Developer | +11 años de experiencia | Especialista en JavaScript & PHP | Laravel • Node.js • Vue.js • Nuxt.js • Ionic • WordPress • Arq. Soft
 
 ---
 
