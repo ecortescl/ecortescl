@@ -1,5 +1,5 @@
 
-Developer Web/Apps | +11 años de experiencia | Especialista en JavaScript & PHP | Laravel • Node.js • Vue.js • Nuxt.js • Ionic • WordPress • Arq. Soft
+Hola, soy desarrollador de software. Llevo más de 11 años en la industria, trabajando principalmente como freelance, pero llevo más de 4 años como Director TI & Desarrollo en la empresa llamada Kuantica, donde desarrollamos soluciones tecnológicas para el sector inmobiliario. También soy emprendedor y he tenido varios negocios, algunos mejores que otros, pero nunca me cansaré de intentarlo. Ahora estoy creando productos digitales basados en mi experiencia en desarrollo y busco compartir lo que sé con mis pares y cualquier interesado.
 
 ---
 
