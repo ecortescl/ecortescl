@@ -1,5 +1,5 @@
 
-Senior Fullstack Developer | +11 años de experiencia | Especialista en JavaScript & PHP | Laravel • Node.js • Vue.js • Nuxt.js • Ionic • WordPress • Arq. Soft
+Developer Web/Apps | +11 años de experiencia | Especialista en JavaScript & PHP | Laravel • Node.js • Vue.js • Nuxt.js • Ionic • WordPress • Arq. Soft
 
 ---
 
