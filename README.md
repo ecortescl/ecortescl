@@ -1,5 +1,5 @@
 
-Hola, soy desarrollador de software. Llevo más de 11 años en la industria, trabajando principalmente como freelance, pero llevo más de 4 años como Director TI & Desarrollo en la empresa llamada Kuantica, donde desarrollamos soluciones tecnológicas para el sector inmobiliario. También soy emprendedor y he tenido varios negocios, algunos mejores que otros, pero nunca me cansaré de intentarlo. Ahora estoy creando productos digitales basados en mi experiencia en desarrollo y busco compartir lo que sé con mis pares y cualquier interesado.
+Hola, Programador Web especializado en el desarrollo de soluciones digitales innovadoras, con una sólida formación en Administración de Empresas, Diseño Multimedia y Programación. Mi experiencia en tecnologías como Laravel, Vue.js, Nuxt y Node.js, junto con una visión integral del mundo empresarial, me ha permitido liderar proyectos de software eficientes y enfocados en la optimización de procesos, mejorando la productividad y rentabilidad de los negocios.
 
 ---
 
@@ -29,15 +29,8 @@ Hola, soy desarrollador de software. Llevo más de 11 años en la industria, tra
 
 ---
 
-## ⚽ **Más Allá del Código**  
-Cuando no estoy codificando, puedes encontrarme:  
-- ⚽ **Jugando fútbol**,  
-- 🎮 **Minecraft** 
-
----
-
 ## 🌐 **Conecta Conmigo**
-- 🌍 Sitio web: [www.ecortes.cl](https://www.ecortes.cl)  - renovando a versión 2025
+- 🌍 Sitio web: [www.ecortes.cl](https://www.ecortes.cl)  
 - 🖼️ Portafolio: [www.ecortes.cl/portafolio](https://www.ecortes.cl/portafolio)  
 - 📧 Correo: [hola@ecortes.cl](mailto:hola@ecortes.cl)  
 
