@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Developer Full Stack + Experto en IA**  
+**Developer Software**  
 🌐 [eCortes.cl](https://ecortes.cl) | 💼 [LinkedIn](https://linkedin.com/in/ecortescl) | 📧 [Contacto](mailto:hola@ecortes.cl)
 
 _Fabricante de Soluciones Digitales_
