@@ -1,19 +1,19 @@
-# 👋 ¡Hola! Soy Esteban Cortés
+# 👋 Hi there! I'm Esteban Cortés
 
 <div align="center">
 
 **Software Developer**  
-🌐 [eCortes.cl](https://ecortes.cl) | 💼 [LinkedIn](https://linkedin.com/in/ecortescl) | 📧 [Contacto](mailto:hola@ecortes.cl)
+🌐 [eCortes.cl](https://ecortes.cl) | 💼 [LinkedIn](https://linkedin.com/in/ecortescl) | 📧 [Contact](mailto:hola@ecortes.cl)
 
-_Fabricante de Soluciones Digitales_
+_Builder of Digital Solutions_
 
 </div>
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-Soy un desarrollador Full Stack especializado en crear soluciones digitales innovadoras con un enfoque especial en **Inteligencia Artificial** y automatización. Me apasiona transformar ideas en productos digitales que generen valor real para empresas y usuarios.
+I'm a Full Stack Developer specialized in building innovative digital solutions, with a strong focus on **Artificial Intelligence** and automation. I'm passionate about transforming ideas into digital products that create real value for companies and users.
 
-## 💻 Stack Tecnológico
+## 💻 Tech Stack
 
 ### **Frontend**
 
@@ -36,7 +36,7 @@ Soy un desarrollador Full Stack especializado en crear soluciones digitales inno
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
-### **Bases de Datos**
+### **Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -48,23 +48,22 @@ Soy un desarrollador Full Stack especializado en crear soluciones digitales inno
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-### **Automatización**
+### **Automation**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6E4AEB?style=flat-square&logo=make&logoColor=white)
 
-## 🎯 Servicios
+## 🎯 Services
 
-- **🌐 Desarrollo Web**: Landing Pages, eCommerce, Aplicaciones Corporativas
-- **📱 Aplicaciones Móviles**: Apps multiplataforma con React Native
-- **🤖 Soluciones de IA**: Chatbots, Automatizaciones, Integración de LLMs
-- **🔍 SEO & Marketing Digital**: Optimización técnica, AIO (AI Optimization)
-- **⚡ API Development**: APIs REST escalables y seguras
+- **🌐 Web Development**: Landing Pages, eCommerce, Corporate Applications  
+- **📱 Mobile Apps**: Cross-platform apps with React Native  
+- **🤖 AI Solutions**: Chatbots, Automation, LLM Integrations  
+- **🔍 SEO & Digital Marketing**: Technical SEO, AIO (AI Optimization)  
+- **⚡ API Development**: Scalable and secure REST APIs
 
-## 📊 Estadísticas GitHub
+## 📊 GitHub Stats
 
 <div align="center">
-
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ecortescl&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
 
@@ -72,8 +71,8 @@ Soy un desarrollador Full Stack especializado en crear soluciones digitales inno
 
 <div align="center">
 
-_"Transformando ideas en soluciones digitales reales"_
+_"Turning ideas into real digital solutions"_
 
-⭐ **¿Te gusta mi trabajo?** ¡Dale una estrella a mis repositorios!
+⭐ **Like my work?** Give a star to my repositories!
 
 </div>
